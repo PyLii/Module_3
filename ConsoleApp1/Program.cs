@@ -16,7 +16,7 @@ namespace ConsoleApp1
             Console.WriteLine("Do you have a pet? " + HaveYouaPet);
             Console.WriteLine("My shoe size is " + MyFitSize);
             Console.WriteLine("\x23");
-
+                 
             Console.ReadKey();
         }
     }
