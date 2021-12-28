@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("\t Hello world");
             Console.WriteLine("\t I am 38");
             Console.WriteLine("\t My name is \n  Pyotr");
+            Console.WriteLine("\x23");
+
             Console.ReadKey();
         }
     }
